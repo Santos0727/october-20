@@ -26,7 +26,8 @@
       "Exec(del)",
       "Exec(ls)",
       "Exec(gh)",
-      "Exec(where gh)"
+      "Exec(where gh)",
+      "Exec(cmdkey)"
     ]
   }
 }

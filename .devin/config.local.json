@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(wc)",
+      "Exec(find)",
+      "Exec(xargs)",
+      "Exec(node)",
+      "Exec(strings)",
+      "Exec(grep)",
+      "Exec(sed)",
+      "Exec(cat)",
+      "Exec(stat)",
+      "Exec(diff)",
+      "Exec(printf)",
+      "Exec(tail)",
+      "Exec(cp)",
+      "Exec(rm)",
+      "Exec(netstat)",
+      "Exec(powershell)",
+      "Exec(curl)",
+      "Exec(sleep)",
+      "Exec(gh auth)",
+      "Exec(git config)",
+      "Exec(git init)",
+      "Exec(git)",
+      "Exec(del)",
+      "Exec(ls)",
+      "Exec(gh)",
+      "Exec(where gh)"
+    ]
+  }
+}

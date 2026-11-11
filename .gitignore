@@ -1,0 +1,9 @@
+# Source asset packs (not needed to run the game)
+Kenney_*/
+kenney_*/
+
+# OS / editor junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
